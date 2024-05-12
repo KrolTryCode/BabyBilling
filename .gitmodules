@@ -1,0 +1,12 @@
+[submodule "nexign_project_maven"]
+    path = nexign_project_maven
+    url = https://github.com/KrolTryCode/nexign_project_maven_cdr
+    branch = master
+[submodule "nexign_project_maven_brt"]
+    path = nexign_project_maven_brt
+    url = https://github.com/KrolTryCode/nexign_project_maven_brt
+    branch = master
+[submodule "nexign_project_maven_hrs"]
+    path = nexign_project_maven_hrs
+    url = https://github.com/KrolTryCode/nexign_project_maven_hrs
+    branch = master
